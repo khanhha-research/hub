@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a lecturer at [Hung Vuong University of Ho Chi Minh City](https://dhv.edu.vn). My PhD is with the University of Economics Ho Chi Minh City (UEH).
+I am a lecturer at [Hung Vuong University of Ho Chi Minh City](https://dhv.edu.vn). I am also a PhD candidate at the University of Economics Ho Chi Minh City (UEH).
 
 My research focuses on **entrepreneurship education and entrepreneurial intention**, especially among Vietnamese students and young people, and on **consumer behavior**, including social media marketing and the adoption of electric vehicles.
 
